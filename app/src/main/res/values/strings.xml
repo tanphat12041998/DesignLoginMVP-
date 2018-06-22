@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Design Login</string>
+    <string name="title">Account Login</string>
+    <string name="username">User name</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="signin">Sign in</string>
+    <string name="remember">Remember</string>
+</resources>
